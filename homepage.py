@@ -13,6 +13,7 @@ st.header("Resumen", divider=True)
 #Dividir con una linea
 st.divider()
 
+#Generar el texto de la informacion
 st.write(
 """
 **Musica**
@@ -25,7 +26,9 @@ Balatro: **Main Theme**
 
 st.video("Balatro Main Theme.mp3")
 
+#Dividir con una linea
 st.divider()
+
 #Generar el texto de la informacion
 st.write(
 """
@@ -51,12 +54,16 @@ Rejugabilidad: Gracias a la gran variedad de comodines, mazos y modificadores, c
 """
    )
 
+#Dividir con una linea
 st.divider()
+
+#Generar el texto de la informacion
 st.write(
 """
 Aqui un tutorial muy util para entender lo mas basico del videojuego:
 """
    )
+#Para generar el video en la pagina
 st.video("https://youtu.be/mEl06UfPtw4")
 
 #Dividir con una linea y crear dos columnas, cada unba con una imagen y una descripcion
@@ -87,4 +94,5 @@ Además, se irán añadiendo páginas con detalles, consejos y explicaciones par
 """
 
    )
+
 
