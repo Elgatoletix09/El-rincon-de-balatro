@@ -1,7 +1,7 @@
 import streamlit as st
 
 #Para el titulo y una imagen con descripcion
-st.header("El plano: Desactiva todos los efectos de las Ciegas Jefes al seleccionarlo")
+st.header("Chicot: Desactiva todos los efectos de las Ciegas Jefes al seleccionarlo")
 st.image("Chicot.png", caption="Balatro: Chicot")
 
 #Dividir con una linea
@@ -36,4 +36,5 @@ st.write(
 
 • Vales: Chicot hace obsoletas las versiones del Director y el Retcon al desactivar todos los efectos de los Boss Blinds. Sin embargo, con múltiples copias de Chicot, puede valer la pena volver a lanzar el Boss Blind para obtener un efecto positivo, especialmente considerando los 'errores positivos' mencionados anteriormente, como el incremento permanente en el tamaño de la mano de 'La Manacle'.
 """
+
    )
