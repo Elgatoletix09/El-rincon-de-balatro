@@ -34,7 +34,7 @@ Balatro es un videojuego que ha capturado la atención de los jugadores por su i
 
 **¿De qué se trata?**
 
-En Balatro, no solo se trata de formar las mejores manos de póker tradicionales. El verdadero giro del juego se encuentra en las cartas especiales, como los Jokers (Comodines), que otorgan efectos únicos, las cartas de Tarot y las cartas Planetarias, que te permiten mejorar tu baraja y potenciar la puntuación de tus manos. Con el dinero que ganas al superar cada ciega, puedes comprar y mejorar estas cartas, lo que te permite crear combos cada vez más extravagantes y poderosos. La clave está en la experimentación y en encontrar las sinergias correctas para "romper" el juego y alcanzar puntuaciones astronómicas. El juego termina al superar un número de rondas, pero puedes seguir jugando en el modo infinito.
+En Balatro, no solo se trata de formar las mejores manos de póker tradicionales. El verdadero giro del juego se encuentra en las cartas especiales, como los Jokers (Comodines), que otorgan efectos únicos, las cartas de Tarot y las cartas de planetas, que te permiten mejorar tu baraja y potenciar la puntuación de tus manos. Con el dinero que ganas al superar cada ciega, puedes comprar y mejorar estas cartas, lo que te permite crear combos cada vez más extravagantes y poderosos. La clave está en la experimentación y en encontrar las sinergias correctas para "romper" el juego y alcanzar puntuaciones astronómicas. El juego termina al superar un número de rondas, pero puedes seguir jugando en el modo infinito.
 
 **Algunas caracteristicas sobre el videojuego**
 
@@ -84,4 +84,5 @@ st.write(
 
 Además, se irán añadiendo páginas con detalles, consejos y explicaciones para ayudarte a entender mejor el juego y mejorar tu estrategia.
 """
+
    )
