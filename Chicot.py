@@ -10,7 +10,7 @@ st.divider()
 #Generar el texto de la informacion
 st.write(
 """
-**Chicot** es uno de los cinco Joker legendarios. Chicot desactiva todos los efectos de Ceguera de Jefe al seleccionarlo, haciendo que el jefe ciego sea simplemente una ceguera regular con una puntuación base más alta para despejar. Los Jokers legendarios solo se pueden obtener de la Carta Espectral del Alma, que tiene una pequeña probabilidad de aparecer en los Paquetes de Refuerzo Espectrales y de Arcana. No se puede encontrar en la tienda y su precio de venta es de 10. Es compatible con los efectos de los pozos y no es copiable por Lluvia de ideas o Plano.
+**Chicot** es uno de los cinco Joker legendarios. Chicot desactiva todos los efectos de la Ciega Jefe al seleccionarlo, haciendo que el jefe ciego sea simplemente una ceguera regular con una puntuación base más alta para despejar. Los Jokers legendarios solo se pueden obtener de la Carta Espectral del Alma, que tiene una pequeña probabilidad de aparecer en los Paquetes de Refuerzo Espectrales y de Arcana. No se puede encontrar en la tienda y su precio de venta es de 10. Es compatible con los efectos de los pozos y no es copiable por Lluvia de ideas o Plano.
 """
    )
 
@@ -38,3 +38,4 @@ st.write(
 """
 
    )
+
