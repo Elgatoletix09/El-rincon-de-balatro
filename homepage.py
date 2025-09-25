@@ -3,6 +3,7 @@ import streamlit as st
 #Para el titulo, un icono decorativo y un texto abajo
 st.title("El rincón de balatro")
 st.badge("Casual", color="green", icon=":material/chevron_right:")
+st.badge("Roguelike", color="green", icon=":material/chevron_right:")
 st.write("Balatro no es un juego, es un estilo de vida")
 
 #Otro mini titulo y generar una imagen
@@ -86,3 +87,4 @@ Además, se irán añadiendo páginas con detalles, consejos y explicaciones par
 """
 
    )
+
